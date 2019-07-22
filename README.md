@@ -1,4 +1,4 @@
-# Become a GENIUS Piano Player with AI
+# PIANO GENIUS
 
 This is an AI-powered piano which makes you feel like a GENIUS while playing it.
 
@@ -18,3 +18,5 @@ Currently, the model cannot be trained while playing but a future version of thi
 
 
 TIP: After randomly playing around a bit, try pressing the same set of keys continuously and see the Piano play different improvised tones for you.
+
+## Instructions to run the program
