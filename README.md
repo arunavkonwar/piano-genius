@@ -20,3 +20,7 @@ Currently, the model cannot be trained while playing but a future version of thi
 TIP: After randomly playing around a bit, try pressing the same set of keys continuously and see the Piano play different improvised tones for you.
 
 ## Instructions to run the program
+
+You can run this program using any compatible web browser. A web server is NOT required to run this.
+
+Note: Once you start this app it starts loading the machine learning model over the internet. This might take some time depending on your internet connection.
